@@ -11,7 +11,7 @@
   <p>
     A machine learning project that predicts <strong>poker hand rankings</strong> from 5-card combinations.
     The model classifies hands such as <em>High Card, Pair, Two Pair, Three of a Kind, Straight, Flush, Full House,
-    Four of a Kind, Straight Flush,</em> and <em>Royal Flush</em>. [Project for Social Winter of Code (SWOC 2025)]
+    Four of a Kind, Straight Flush,</em> and <em>Royal Flush</em>.<br> <b>[Project for Social Winter of Code (SWOC 2025)]</b>
   </p>
 
   <div class="badges">
@@ -103,7 +103,7 @@
       <a href="https://www.kaggle.com/datasets/dysphoria/poker-hand-classification" target="_blank" rel="noopener noreferrer">
       Noah Boggs Poker Hand Classification </a> for the dataset.
     </li>
-    <li>Open-source ML libraries and contributors.</li>
+    <li>Social Winter of Code (SWOC 2025)</li>
   </ul>
 
 </body>
