@@ -3,25 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>Poker Hand Prediction Model</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <style>
-    /* Lightweight, GitHub-friendly styling */
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, "Helvetica Neue", Arial, "Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol", sans-serif; line-height: 1.6; margin: 0; padding: 2rem; color: #24292f; }
-    h1, h2, h3 { margin-top: 1.6rem; }
-    code, pre { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; font-size: 0.95em; }
-    pre { background: #f6f8fa; padding: 1rem; border-radius: 6px; overflow: auto; border: 1px solid #eaecef; }
-    .kbd { background:#f6f8fa; border:1px solid #d1d5da; border-bottom-color:#c6cbd1; border-radius:6px; padding:0 6px; font-family:inherit; }
-    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; }
-    .card { border: 1px solid #eaecef; border-radius: 8px; padding: 1rem; background: #fff; }
-    .muted { color: #57606a; }
-    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
-    ul { margin: 0.5rem 0 1rem; }
-    .badges img { height: 20px; vertical-align: text-bottom; }
-    a { color: #0969da; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    hr { border: 0; border-top: 1px solid #eaecef; margin: 2rem 0; }
-  </style>
+  
 </head>
 <body>
 
