@@ -11,7 +11,7 @@
   <p>
     A machine learning project that predicts <strong>poker hand rankings</strong> from 5-card combinations.
     The model classifies hands such as <em>High Card, Pair, Two Pair, Three of a Kind, Straight, Flush, Full House,
-    Four of a Kind, Straight Flush,</em> and <em>Royal Flush</em>.
+    Four of a Kind, Straight Flush,</em> and <em>Royal Flush</em>. [Project for Social Winter of Code (SWOC 2025)]
   </p>
 
   <div class="badges">
