@@ -38,10 +38,10 @@
 
   <h2>⚙️ Workflow</h2>
   <ol>
-    <li><strong>Data Loading</strong> – Import training and testing CSVs from <span class="mono">/Dataset</span>.</li>
-    <li><strong>Preprocessing</strong> – Validate schema, handle encoding, optional scaling/normalization.</li>
+    <li><strong>Data Loading</strong> – Import training and testing files from <span class="mono">/Dataset</span>.</li>
+    <li><strong>Preprocessing</strong> – Validate schema, handle encoding and normalizate the data.</li>
     <li><strong>Feature Engineering</strong> – Represent ranks/suits and derive hand features where useful.</li>
-    <li><strong>Model Training</strong> – Train baselines and advanced models (Decision Tree, Random Forest, XGBoost, etc.).</li>
+    <li><strong>Model Training</strong> – Train models (MLP, Random Forest, Gradient Boosting).</li>
     <li><strong>Evaluation</strong> – Accuracy, precision, recall, F1-score, and confusion matrix on the test set.</li>
   </ol>
 
@@ -104,7 +104,7 @@
   <ul>
     <li>
       <a href="https://www.kaggle.com/datasets/dysphoria/poker-hand-classification" target="_blank" rel="noopener noreferrer">
-      Noah Boggs Poker Hand Classification </a> for the dataset.
+      Noah Boggs - Poker Hand Classification </a> for the dataset.
     </li>
     <li>Social Winter of Code (SWOC 2025)</li>
   </ul>
