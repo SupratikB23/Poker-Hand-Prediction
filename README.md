@@ -9,7 +9,7 @@
 
   <h1>🎴 Poker Hand Prediction Model 🎴</h1>
   <p>
-    A machine learning project that predicts <strong>poker hand rankings</strong> from 5-card combinations.
+    A Machine Learning & Deep Learning project that predicts <strong>poker hand rankings</strong> from 5-card combinations.
     The model classifies hands such as <em>High Card, Pair, Two Pair, Three of a Kind, Straight, Flush, Full House,
     Four of a Kind, Straight Flush,</em> and <em>Royal Flush</em>.<br> <b>[Project for Social Winter of Code (SWOC 2025)]</b>
   </p>
