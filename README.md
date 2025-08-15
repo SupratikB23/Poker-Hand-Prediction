@@ -14,6 +14,8 @@
     Four of a Kind, Straight Flush,</em> and <em>Royal Flush</em>.<br> <b>[Project for Social Winter of Code (SWOC 2025)]</b>
   </p>
 
+
+
   <div class="badges">
     <img alt="Made with Jupyter" src="https://img.shields.io/badge/Made%20with-Jupyter-orange.svg" />
     <img alt="Python 3.x" src="https://img.shields.io/badge/Python-3.x-blue.svg" />
@@ -21,6 +23,7 @@
   </div>
 
   <hr />
+  <img width="600" height="400" alt="Screenshot 2025-01-14 092314" src="https://github.com/user-attachments/assets/a8632fb9-d850-426b-8ab8-1c2fad6669eb" />
   
   <h2>📊 Dataset Information</h2>
   <ul>
