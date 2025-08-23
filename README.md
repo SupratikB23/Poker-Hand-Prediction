@@ -87,6 +87,7 @@
 │   └── poker-hand-testing.data  
 ├── Poker_Hand_Prediction_Model
 ├── LICENSE 
+├── NOTICE 
 └── README.md                    
 </code></pre>
 
